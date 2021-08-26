@@ -7,7 +7,7 @@
 - ⚡ **[LeetCode](https://leetcode-cn.com/u/2951121599/)：** 刷题日常  ==>>  秃头ing
 - 💬 **[CSDN](https://blog.csdn.net/liluo_2951121599)：** 记录一些日常总结、笔记、踩坑经验
 - 🚀 **[知乎](https://www.zhihu.com/people/li-luo-99-85/posts)：**''人类高质量''故事集锦
-- 👬 **``QQ``编程技术交流群：903555852** <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=dTDcMmFbaxqZkaGCiSgtI-IZrIvrBb4W&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="编程技术交流群" title="编程技术交流群"></a>
+- 👬 **``QQ``编程技术交流群：903555852** <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=dTDcMmFbaxqZkaGCiSgtI-IZrIvrBb4W&jump_from=webapi"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="编程技术交流群" title="编程技术交流群"></a>
 
 ## 今年汇总 ✨
 

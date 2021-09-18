@@ -5,7 +5,7 @@
 - 💻 **日常：**![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 - 🌱 **其它：**![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 - ⚡ **[LeetCode](https://leetcode-cn.com/u/qi-dai-36/)：** 刷题日常  ==>>  秃头ing
-- 💬 **[bilibili](https://blog.csdn.net/liluo_2951121599)：** bilibili丶干杯~~
+- 💬 **[bilibili](https://space.bilibili.com/128117328)：** bilibili丶干杯~~
 - 🚀 **[知乎](https://www.zhihu.com/people/boluo29511)：**''人类高质量''故事集锦
 - 👬 **``QQ``编程技术交流群：903555852** <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=dTDcMmFbaxqZkaGCiSgtI-IZrIvrBb4W&jump_from=webapi"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="编程技术交流群" title="编程技术交流群"></a>
 

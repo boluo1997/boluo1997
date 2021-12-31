@@ -7,7 +7,6 @@
 - ⚡ **[LeetCode](https://leetcode-cn.com/u/qi-dai-36/)：** 刷题日常  ==>>  秃头ing
 - 💬 **[bilibili](https://space.bilibili.com/128117328)：** bilibili丶干杯~~
 - 🚀 **[知乎](https://www.zhihu.com/people/boluo29511)：**''人类高质量''故事集锦
-- 👬 **``QQ``编程技术交流群：903555852** <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=dTDcMmFbaxqZkaGCiSgtI-IZrIvrBb4W&jump_from=webapi"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="编程技术交流群" title="编程技术交流群"></a>
 
 ## 今年汇总 ✨
 

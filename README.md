@@ -10,7 +10,7 @@
 
 ## 今年汇总 ✨
 
-<img src="https://github-profile-trophy.vercel.app/?username=boluo1997&margin-w=5&theme=radical" />
+<img src="https://github-profile-trophy.vercel.app/?username=boluo1997&margin-w=5&theme=radical" align = "center" />
 
 <img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=boluo1997&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" />
 

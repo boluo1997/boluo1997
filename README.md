@@ -10,5 +10,9 @@
 
 ## 今年汇总 ✨
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=boluo1997&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boluo1997&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<img src="https://github-profile-trophy.vercel.app/?username=boluo1997&margin-w=5&theme=radical" />
+
+<img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=boluo1997&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" />
+
+
 

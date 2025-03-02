@@ -11,14 +11,9 @@
 
 
 
+<img src="https://github.com/user-attachments/assets/26cd4547-69f8-4fc3-8a9b-6a050b8cea75" alt="boluo1997-github-cards" width="300" height="200">
 
 
 ![boluo1997-github-cards](https://github.com/user-attachments/assets/26cd4547-69f8-4fc3-8a9b-6a050b8cea75)
 
-<style>
-img {
-    width: 150px !important;
-    height: 150px !important;
-    border: 1px solid #EEE;
-}
-</style>
+

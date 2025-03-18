@@ -4,10 +4,11 @@
 - 💻 **日常：** 打游戏、学英语、图书馆、爬山、徒步
 - 🐟 **主页：** <a href="https://boluo1997.github.io/" target="_blank"> 创作中... </a>
 
+<!-- 
 ## 年度汇总 ✨
 <img src="https://github.com/user-attachments/assets/bc5438ad-80d4-483d-bb71-b0db1734c5bb" alt="boluo1997-github-cards" width="496" height="700">
 
-<!-- 
+
 <img src="https://github-profile-trophy.vercel.app/?username=boluo1997&margin-w=5&theme=radical" align = "center" />
 
 图标: 
